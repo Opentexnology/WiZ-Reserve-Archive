@@ -6,4 +6,7 @@
 
  # Проблеми з Windows SmartScreen
  Якщо у вас виникла проблема при запуску встановлювача, слідуйте наступним картинкам
- ![Крок перший]
+ ![Крок перший](https://github.com/Opentexnology/WiZ-Reserve-Archive/blob/main/tutorial-1.png)
+ ![Крок другий](https://github.com/Opentexnology/WiZ-Reserve-Archive/blob/main/tutorial-2.png)
+ 
+ *Файли перевірені за допомогою* **Virus Total**, *та не містять шкідливого вмісту*
