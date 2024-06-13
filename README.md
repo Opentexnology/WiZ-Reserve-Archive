@@ -10,3 +10,5 @@
  ![Крок другий](https://github.com/Opentexnology/WiZ-Reserve-Archive/blob/main/tutorial-2.png)
  
  *Файли перевірені за допомогою* **Virus Total**, *та не містять шкідливого вмісту*
+
+# Корисні файли
